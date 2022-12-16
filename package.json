@@ -1,0 +1,19 @@
+{
+  "name": "nicolas",
+  "version": "1.0.0",
+  "description": "setting up the project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UI-TEC/test-project.git"
+  },
+  "author": "nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UI-TEC/test-project/issues"
+  },
+  "homepage": "https://github.com/UI-TEC/test-project#readme"
+}
